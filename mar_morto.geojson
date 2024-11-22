@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.36,
+              31.8
+            ],
+            [
+              35.36,
+              31.25
+            ],
+            [
+              35.6,
+              31.25
+            ],
+            [
+              35.6,
+              31.8
+            ],
+            [
+              35.36,
+              31.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "mar_morto"
+      }
+    }
+  ]
+}
