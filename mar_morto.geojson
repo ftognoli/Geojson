@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [35.60, 31.80],
+            [35.60, 31.25],
+            [35.36, 31.25],
+            [35.36, 31.80]
+          ]
+        ]
+      },
+      "properties": {
+        "codarea": "mar_morto"
+      }
+    }
+  ]
+}
