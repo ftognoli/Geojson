@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1913,
+              -22.99
+            ],
+            [
+              -43.162,
+              -22.99
+            ],
+            [
+              -43.162,
+              -22.962
+            ],
+            [
+              -43.1913,
+              -22.962
+            ],
+            [
+              -43.1913,
+              -22.99
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "My ROI"
+      }
+    }
+  ]
+}
