@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.162, -22.962],
+            [-43.162, -22.990],
+            [-43.1925, -22.990],
+            [-43.1925, -22.962],
+            [-43.162, -22.962]
+          ]
+        ]
+      },
+      "properties": {
+        "codarea": "3304557"
+      }
+    }
+  ]
+}
